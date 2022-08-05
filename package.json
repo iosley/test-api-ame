@@ -27,7 +27,7 @@
     "convict": "^5.0.0",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.7.5",
     "mongoose-paginate": "^5.0.3",
     "pm2": "^3.5.1"
   },
